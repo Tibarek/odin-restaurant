@@ -1,3 +1,4 @@
+import "./style.css";
 import { pageLoad } from "./home.js";
 import {menu} from "./menu.js"
 import { about } from "./about.js";
