@@ -1,4 +1,3 @@
-import sini from "./images/sini.jpeg";
 import cappuccino from "./images/cappuccino.jpg";
 import latte from "./images/steaming-cup-coffee.jpg";
 import muffin from "./images/muffin.jpg";
